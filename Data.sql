@@ -2,7 +2,7 @@
 USE hola;
 
 -- Tabla de usuarios
-CREATE TABLE usuarios (
+CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(50) NOT NULL,
     Pass VARCHAR(255) NOT NULL
