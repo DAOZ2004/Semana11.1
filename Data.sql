@@ -1,4 +1,3 @@
-CREATE DATABASE hola;
 
 USE hola;
 
